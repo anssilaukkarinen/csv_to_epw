@@ -1,5 +1,5 @@
 # txt_to_epw
-Convert flat text (.txt) files to epw weather data files
+Convert flat text (.csv) files to epw weather data files
 
 All csv climate files in the input folder are from the Finnish Meteorological Institute.
 
