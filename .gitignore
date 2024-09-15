@@ -1,4 +1,7 @@
 
 # Ignore these files
 
-*.epw
+__pycache__/
+output/
+
+
