@@ -3,7 +3,7 @@ Convert flat text (.csv) files to epw weather data files
 
 All csv climate files in the input folder are from the Finnish Meteorological Institute.
 
-Report (In Finnish) describing the methods and data sets: \
+Report (In Finnish) describing the methods and data sets used to create the input csv files: \
 Jylhä et al. (2020) http://hdl.handle.net/10138/321164
 
 Link to Finnish Meteorological Institute website on building energy efficiency Test Reference Years (TRY): \
